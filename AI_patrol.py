@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-  Copyright (C) 2026 Vivian Epiney (AP-EdNum, HEP-VS)
+  Copyright (C) 2026 Vivian Epiney (Wikimedia CH)
 
   This program is free software: you can redistribute it and/or modify
   it under the terms of the GNU Affero General Public License as published by
